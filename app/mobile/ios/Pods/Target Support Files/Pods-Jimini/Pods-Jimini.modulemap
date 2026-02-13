@@ -1,0 +1,6 @@
+module Pods_Jimini {
+  umbrella header "Pods-Jimini-umbrella.h"
+
+  export *
+  module * { export * }
+}
