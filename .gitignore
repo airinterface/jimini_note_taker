@@ -99,3 +99,4 @@ vendor/bundle/
 *.tmp
 *.temp
 .cache/
+app/mobile/vendor
